@@ -1,0 +1,47 @@
+[
+  {
+    "voiceSearchQuery" : "play the station Ark patrol",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "PLAYLIST_V2",
+    "time" : "2021-08-27T00:20:05.202Z"
+  },
+  {
+    "voiceSearchQuery" : "play let go by Ark patrol",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "TRACK",
+    "time" : "2021-08-27T00:47:08.885Z"
+  },
+  {
+    "voiceSearchQuery" : "shuffle the playlist liked",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "COLLECTION",
+    "time" : "2021-09-10T00:31:53.613Z"
+  },
+  {
+    "voiceSearchQuery" : "play Isaiah Rashad",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "PLAYLIST_V2",
+    "time" : "2021-09-13T00:08:14.091Z"
+  },
+  {
+    "voiceSearchQuery" : "play KAYTRANADA",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "PLAYLIST_V2",
+    "time" : "2021-09-13T00:17:09.906Z"
+  }
+]
