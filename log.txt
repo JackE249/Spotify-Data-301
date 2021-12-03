@@ -1,0 +1,5 @@
+Matt Cuento:
+   5.5 hours - Collecting data, authorizing, writing queries
+   1 hour - Processing/cleaning data
+   2 hours - Created K-Means Clustering
+   1 hour - Created KNN model
