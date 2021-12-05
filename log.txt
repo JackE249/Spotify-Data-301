@@ -3,3 +3,8 @@ Matt Cuento:
    1 hour - Processing/cleaning data
    2 hours - Created K-Means Clustering
    1 hour - Created KNN model
+   
+Rahul Nair:
+    2 hours - Spectral Clustering
+    1 hour - Affinity Clustering
+    3.5 hours - Further analysis, data visualization, debugging, research
