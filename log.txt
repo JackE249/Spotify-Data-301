@@ -8,3 +8,8 @@ Rahul Nair:
     2 hours - Spectral Clustering
     1 hour - Affinity Clustering
     3.5 hours - Further analysis, data visualization, debugging, research
+
+Ujwal Jain:
+    3 hours - MeanShift Clustering
+    2 hours - Agglomerative Clustering
+    2 hour - Data Preprocessing
