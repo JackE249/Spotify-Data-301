@@ -13,3 +13,8 @@ Ujwal Jain:
     3 hours - MeanShift Clustering
     2 hours - Agglomerative Clustering
     2 hour - Data Preprocessing
+
+Jack Engstrom:
+    4.5 hours - Collecting data, optimizing collection process
+    1 hour - Data preprocessing
+    5 hours - Attempt to create neural network model predicting attributes of next song. Examined data issues
